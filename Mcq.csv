@@ -1,0 +1,11 @@
+Questions,Choice1,Choice2,Choice3,Choice4,Answer
+GUI stands for ?,graphical user interaction,graphical user interface,graphical uniform interaction,none of the above,2
+Graphics can be _______,Simulation,Drawing,Movies&photographs,All of the above,4
+"In computer graphics, what is the purpose of using a frame buffer?",To store texture data,To hold the final image to be displayed,To store lighting information,To reflect objects about a plane,2
+The components of Interactive computer graphics are ______, monitor,Display controller,Frame buffer,All of the above,4
+"In image processing, what is a common use of the Laplacian filter?",Smoothing images,Enhancing edges,Reducing noise,Adjusting brightness,2
+What is a pixel mask?,a string containing only 0's,a string containing only 1's,a string containing two 0's,a string containing both 1's and 0's,4
+Which image processing technique is used to enhance  edges of objects?,Blurring,Histogram Equalization,Edge Detection,Thresholding,3
+Process of positioning object along a straight line from one point to another is,Translation,Reflection,Shearing,Transformation,1
+Which of the following transformation is used for altering the object's size?,Translation,Scaling,Rotation,None of the above,2
+ Which algorithm is used for line drawing in computer graphics?,Dijkstra's algorithm,A* algorithm,Bresenham's algorithm,Prim's algorithm,3
